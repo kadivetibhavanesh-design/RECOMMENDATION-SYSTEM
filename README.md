@@ -50,3 +50,9 @@ This task helped in understanding important machine learning concepts such as re
 
 Overall, the Recommendation System was successfully implemented using Collaborative Filtering and Cosine Similarity techniques. The model effectively recommends movies based on user rating similarities and demonstrates the practical application of Machine Learning in intelligent recommendation systems.
 
+# Output
+
+<img width="1520" height="685" alt="Image" src="https://github.com/user-attachments/assets/3022d9a2-0a11-490b-9048-2454f4d8be56" />
+
+<img width="1565" height="671" alt="Image" src="https://github.com/user-attachments/assets/f95cd978-21ed-428e-a9e4-d7274350ee4a" />
+
